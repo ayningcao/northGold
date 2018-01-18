@@ -1,2 +1,2 @@
-# northgold
+# northGold
 Gold Flow AI machine
